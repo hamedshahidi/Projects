@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GreenZone</string>
+
+    Splash Screen
+    <string name="splash_text">GreenZone</string>
+
+    Title
+    <string name="title_main">Welcome to GreenZone!</string>
+
+    Content Description
+    <string name="cd_logo">logo</string>
+</resources>
